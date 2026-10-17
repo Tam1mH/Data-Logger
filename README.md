@@ -1,5 +1,5 @@
 # Data-Logger
-Data logger dibuat untuk mengumpulkan data lingkungan dengan beberapa sensor dan dapat terhubung ke internet agar datanya dapat langsung disimpan di database maupun lokal 
+a device for collecting environmental data using multiple sensors, capable of connecting to the internet so that the data can be stored directly in a database or locally 
 
 ## Komponen 
 
