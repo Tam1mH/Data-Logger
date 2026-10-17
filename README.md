@@ -14,10 +14,10 @@ a device for collecting environmental data using multiple sensors, capable of co
 - ESP32 Devkit V4
 
 ### Output
-- SD Card Modul (Untuk storage lokal)
+- SD Card Modul (For local Storage)
 - MQTT
 - Thingspeak
-- Google Sheet (Dataabase)
+- Google Sheet (Database)
 
 ### Power Supply
 - Baterai Lithium 18650
